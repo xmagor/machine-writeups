@@ -1,0 +1,10 @@
+.obsidian
+plantillas/
+builds/
+
+# diagrams files
+*.drawio
+*.xlsx
+
+# In development
+*.dev
